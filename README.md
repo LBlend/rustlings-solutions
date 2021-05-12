@@ -4,7 +4,7 @@
 |------------------------|---------------|--------|
 | variables              | §3.1          |✅      |
 | functions              | §3.3          |✅      |
-| if                     | §3.5          ||
+| if                     | §3.5          |✅      |
 | move_semantics         | §4.1          |⏳       |
 | primitive_types        | §4.3          ||
 | structs                | §5.1          ||
