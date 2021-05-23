@@ -7,7 +7,7 @@
 | if                     | §3.5          |✅      |
 | move_semantics         | §4.1          |✅      |
 | primitive_types        | §4.3          |✅      |
-| structs                | §5.1          ||
+| structs                | §5.1          |✅      |
 | enums                  | §6            ||
 | modules                | §7.2          ||
 | collections            | §8.1          ||
